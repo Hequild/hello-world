@@ -1,4 +1,4 @@
 # hello-world
 
-Hello there!
-I like C#, dotNET, functional paradigm and games!
+Hello there!\
+I like C#, dotNET, functional paradigm and games.
