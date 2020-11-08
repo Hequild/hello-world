@@ -1,2 +1,4 @@
 # hello-world
-Just a repository for education
+
+Hello there!\
+I like C#, dotNET, functional paradigm and games.
